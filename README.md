@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hashini</h1>
 <h3 align="center">Undergraduate of UCSC</h3>
-
 <img align="right" alt="image" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashii99&label=Profile%20views&color=0e75b6&style=flat" alt="hashii99" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://hashii99.github.io/Portfolio/](https://hashii99.github.io/Portfolio/)
@@ -11,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hashini thilinka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashini thilinka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hashini-thilinika-76350721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hashini-thilinika-76350721b/" height="30" width="40" /></a>
 <a href="https://fb.com/hashini thilinika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hashini thilinika" height="30" width="40" /></a>
 <a href="https://instagram.com/hashiii__99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hashiii__99" height="30" width="40" /></a>
 </p>
